@@ -6,9 +6,8 @@ module.exports = {
       circuitId: "credentialAtomicQuerySigV2",
       query: {
         allowedIssuers: ["*"],
-        type: "KYCPilotCredential",
-        context:
-          "https://raw.githubusercontent.com/iden3/claim-schema-vocab/main/schemas/json-ld/kyc-v3.json-ld",
+        type: "ProofOfEmployee",
+        context: "https://raw.githubusercontent.com/Aeresopace-Blockchain/Waterloo-Server/main/schema/proof-of-employee.jsonId",
         credentialSubject,
       },
     }),
