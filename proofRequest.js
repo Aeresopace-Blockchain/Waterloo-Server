@@ -3,7 +3,7 @@ const { KYCPilotCredential } = require("./vcHelpers/KYCAgeCredential");
 // design your own customised authentication requirement here using Query Language
 // https://0xpolygonid.github.io/tutorials/verifier/verification-library/zk-query-language/
 
-const humanReadableAuthReason = "Rafael Fuentes Rangel";
+const humanReadableAuthReason = "You are not part of pilot members in this company";
 
 const credentialSubject = {
   licenseID: {
