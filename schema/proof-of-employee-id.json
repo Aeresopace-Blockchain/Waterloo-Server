@@ -3,8 +3,8 @@
     "type": "object",
     "$metadata": {
       "uris": {
-        "jsonLdContext": "https://raw.githubusercontent.com/0xPolygonID/tutorial-examples/main/credential-schema/proof-of-dao-longevity.jsonld",
-        "jsonSchema": "https://raw.githubusercontent.com/0xPolygonID/tutorial-examples/main/credential-schema/proof-of-dao-longevity.json"
+        "jsonLdContext": "https://raw.githubusercontent.com/Aeresopace-Blockchain/Waterloo-Server/main/schema/proof-of-employee.jsonId",
+        "jsonSchema": "https://raw.githubusercontent.com/Aeresopace-Blockchain/Waterloo-Server/main/schema/proof-of-employee-id.json"
       }
     },
     "required": [
